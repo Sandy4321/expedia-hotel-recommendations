@@ -1,2 +1,5 @@
 # expedia-hotel-recommendations
-https://www.kaggle.com/c/expedia-hotel-recommendations/data
+Expedia Hotel Recommendation Kaggle Competition
+
+## Method
+Foucsed on feature engineering and 
